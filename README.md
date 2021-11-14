@@ -1,5 +1,5 @@
 #Spring applciation for test logging with Elasticsearch, Logstash, Kibana
-![shema](https://github.com/volvadvit/ELK-Spring-Example/blob/master/1.png?raw=true)
+![shema](https://github.com/volvadvit/ELK-Spring-Example/blob/master/pic/1.png?raw=true)
 __________
 - Install & run [ELK stack](https://www.elastic.co/)
 - Configure Logstash's **.conf** file. Add: 
